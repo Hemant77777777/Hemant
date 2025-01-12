@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hemant Kumar
 
 🚀 **A passionate Web Developer and Open-Source Contributor**  
-🌱 Enthusiastic about Development, DevOps, and Machine Learning.
+🌱 Enthusiastic about Development, DevOps, and All Tech Related Fields.
 
 ---
 
