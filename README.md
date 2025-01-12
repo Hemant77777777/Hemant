@@ -7,9 +7,9 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 Currently working on **Open-Source Projects** at **IDURAR AI** and **Zomato**.
-- 🌱 I’m learning **System Design, DevOps, and AI/ML Technologies**.
-- 💬 Ask me about **Backend Development, MERN Stack, or Competitive Programming**.
+- 🔭 Currently working on **Open-Source Projects**.
+  
+- 💬 Ask me about **Any Develepoment Skills**.
 - 📫 Reach me via email: **[nhemantkumar77@gmail.com](mailto:nhemantkumar77@gmail.com)**.
 - 🌐 Portfolio: **[Portfolio Website](https://magenta-ganache-d0ef58.netlify.app/)**.
 
