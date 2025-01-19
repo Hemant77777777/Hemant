@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats:
 ![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemant77777777&show_icons=true&theme=radical&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant77777777&layout=compact&theme=radical&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant77777777&layout=compact&theme=radical)
 ---
 
 ### 📈 Contribution Stats:
@@ -40,8 +40,15 @@
 
 
 
-### 🎯 Recent Activity:
-![Hemant's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Hemant77777777&theme=radical)
+### 📈 **Contribution Graph**:
+![Hemant's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hemant77777777&theme=radical)
+
+---
+### Visitor Count:
+![Visitor Count](https://profile-counter.glitch.me/Hemant77777777/count.svg)
+
+
+
 
 
 ---
